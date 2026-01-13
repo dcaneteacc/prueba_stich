@@ -1,0 +1,8 @@
+
+{
+  "name": "Corredores Activos - Running Community App",
+  "description": "A comprehensive running application for club discovery, event exploration, and race tracking with AI-powered coaching feedback.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
